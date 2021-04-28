@@ -9,17 +9,17 @@ categories:
 
 ---
 
-# The NYSE Listed Company Manual[^1]
+## The NYSE Listed Company Manual[^1]
 
-## Mandatory Requirements
+### Mandatory Requirements
 
 Unlike SEC and SOX
 
-## All Scope
+### All Scope
 
 All directors, officers and employees of a company
 
-## Minimum Content[^2]
+### Minimum Content[^2]
 
 1.  a policy prohibiting conflicts of interest
 2. prohibiting to take personal advantage of corporate opportunities 
@@ -29,11 +29,11 @@ All directors, officers and employees of a company
 6. compliance with laws, rules and regulations
 7. reporting of any illegal and unethical behavior, company's proactive promotion of ethical behavior. 
 
-## NO an indeprndent ethics commitee
+### NO an indeprndent ethics commitee
 
 Like SOX and die SEC
 
-# The Nasdaq Stock Market Rules
+## The Nasdaq Stock Market Rules
 
 Similar to the NYSE Listed Company Manual
 
