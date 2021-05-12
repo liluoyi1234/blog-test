@@ -6,9 +6,6 @@ slug: civil-law-cases-reading-1
 image: https://images.pexels.com/photos/63901/pexels-photo-63901.jpeg
 tags: 
     - Reading notes
-categories:
-    - 民法学说与判例研究
-
 ---
 
 # 概说

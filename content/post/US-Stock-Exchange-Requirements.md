@@ -4,9 +4,6 @@ date: 2021-04-28T16:09:40+08:00
 draft: true
 tags: 
     - Reading notes
-categories:
-    - Ethicl Values
-
 ---
 
 ## The NYSE Listed Company Manual[^1]

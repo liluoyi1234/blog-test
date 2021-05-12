@@ -3,8 +3,6 @@ title: "读《「新加坡调解公约」在中国的批准与实施》"
 date: 2021-05-12T19:03:46+08:00
 tags: 
     - literature Review
-categories:
-    - 论文写作
 ---
 
 ## 一、问题提出的方式

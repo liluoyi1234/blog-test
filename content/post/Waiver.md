@@ -3,8 +3,6 @@ title: "Waiver"
 date: 2021-04-28T16:53:42+08:00
 tags: 
     - 法律英语
-categories:
-    - Common law
 ---
 
 ## 基本词义

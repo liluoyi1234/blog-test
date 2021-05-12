@@ -6,6 +6,4 @@ slug: cross-examination-in-English
 image: 
 tags: 
     -
-categories:
-    -
 ---
