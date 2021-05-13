@@ -1,11 +1,6 @@
 ---
 title: 'Place of business in CISG'
 date: 2020-07-17 20:33:06
-tags: [CISG]
-published: true
-hideInList: false
-feature: 
-isTop: false
 ---
 ## Definition
 CISG中并未定义营业地（place of business)，于是涉及CISG的解释，下面将要参考CISG_digest(2016)[^1]。

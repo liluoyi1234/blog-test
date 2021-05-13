@@ -2,9 +2,6 @@
 title: 涉外民事关系和国际私法 
 description: 第一章：总论，《国际私法》第五版-李双元
 date: 2021-03-20T21:50:03+08:00
-slug: Chapter-I-foreign-related-civil-relationship-and-international-private-law
-image: https://images.pexels.com/photos/7372401/pexels-photo-7372401.jpeg
-tags: [复试]
 ---
 
 # 第一编 总论

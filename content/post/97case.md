@@ -1,11 +1,6 @@
 ---
 title: '最高院97号案例'
 date: 2020-01-10 00:00:00
-tags: [刑法]
-published: true
-hideInList: false
-feature: 
-isTop: false
 ---
 
 # 权威发布指导案例97号：王力军非法经营案

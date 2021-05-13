@@ -1,9 +1,6 @@
 ---
 title: "US Stock Exchange Requirements"
 date: 2021-04-28T16:09:40+08:00
-draft: true
-tags: 
-    - Reading notes
 ---
 
 ## The NYSE Listed Company Manual[^1]

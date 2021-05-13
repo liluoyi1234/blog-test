@@ -1,11 +1,6 @@
 ---
 title: 'The structure of CISG'
 date: 2020-06-30 21:59:12
-tags: [CISG]
-published: true
-hideInList: false
-feature: 
-isTop: false
 ---
 一共101条重要条款，分成四部分。
 ## Sphere of application and general provisions 
