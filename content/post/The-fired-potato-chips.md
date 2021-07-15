@@ -2,7 +2,7 @@
 title: "The Fired Potato Chips"
 date: 2021-07-15T15:08:07+08:00
 tags: 
-    - 
+    -
 categories:
     - Cookbook
 ---
