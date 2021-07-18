@@ -1,58 +1,73 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Ezhil"
-theme = "ezhil"
-paginate = 5
+baseURL = "https://example.org/"
+title = "Hugo Themes"
+author = "Steve Francia"
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+# REMOVE THIS
+themesDir = "../../"
+# DO NOT REMOVE THIS
+theme = "harbor"
 
-copyright = "© Copyright notice"
+[Author]
+  name = "hugo author"
 
-pygmentsstyle = "solarized-dark"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+[permalinks]
+	post = "/:year/:month/:day/:filename/"
+	page = "/:filename/"
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "ezhil-demo"
+[outputs]
+    section = ["JSON", "HTML"]
 
-summaryLength = 20
+[[params.nav]]
+  identifier = "about"
+  name = "About"
+  icon = "fas fa-user fa-lg"
+  url = "/about/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "tags"
+  name = "Tags"
+  icon = "fas fa-tag fa-lg"
+  url = "/tags/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "search"
+  name = "Search"
+  icon = "fas fa-search fa-lg"
+  url = "/search/"
+  weight = 3
+
+[[params.social]]
+  name= "Twitter"
+  url="https://twitter.com/GoHugoIO"
+  icon="fab fa-twitter"
+
+[[params.social]]
+  name= "GitHub"
+  url="https://github.com/gohugoio/hugo"
+  icon="fab fa-github"
+
+[[params.social]]
+  name= "reddit"
+  url="https://www.reddit.com/r/gohugo/"
+  icon="fab fa-reddit-alien"
+
+[[params.social_static]]
+  name = "Qiita"
+  url = "https://qiita.com"
+  icon = "qiita.png"
 
 [params]
-	subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
-	disableDisqusTypes = ["page"]
-	featherIconsCDN = true
-	mode = "auto" # "dark", "auto", "light"
-	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
-	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
-	# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
+  mainSections = ["post"]
+  favicon = "favicon.ico"
 
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/vividvilla/ezhil"
-
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
-
-[taxonomies]
-   tag = "tags"
+  [params.logo]
+    url = "icon.png"
+    width = 50
+    height = 50
+    alt = "Logo"
